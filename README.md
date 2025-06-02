@@ -1,9 +1,9 @@
-#Data Warehouse & Analytics Project
-Designed as a portfolio project, it highlights industry best practices in data engineering and analytics, from building a data warehouse to generating actionable insights. Project based on the contents of 'Data with Baraa'
+# Data Warehouse & Analytics Project
+Designed as a portfolio project, it highlights industry best practices in data engineering and analytics, from building a data warehouse to generating actionable insights.
 
 ## 🚀 Project Requirements
 
-### Building the Data Warehouse (Data Engineering)
+### Building the Data Warehouse (Data Engineering) -  Project based on the contents of 'Data with Baraa'
 
 #### Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
@@ -17,7 +17,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 
-### BI: Analytics & Reporting (Data Analysis)
+### BI: Analytics & Reporting (Data Analysis) -  Project based on the contents of Datacamp and Data with Baraa
 
 #### Objective
 Develop SQL-based analytics to deliver detailed insights into:
@@ -30,7 +30,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture
-![image](https://github.com/user-attachments/assets/23b7cd7f-f49f-4dde-85cb-16befa450eaa)
+![image](https://github.com/user-attachments/assets/dd452576-b746-4107-ba24-801f94b8f79c)
 
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
