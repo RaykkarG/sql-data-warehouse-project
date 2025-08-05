@@ -3,7 +3,7 @@ Designed as a portfolio project, it highlights industry best practices in data e
 
 ## 🚀 Project Requirements
 
-### Building the Data Warehouse (Data Engineering) -  Project based on the contents of 'Data with Baraa'
+### Building the Data Warehouse (Data Engineering)
 
 #### Objective
 Develop a data warehouse using **SQL Server** to consolidate sales data, enabling analytical reporting and informed decision-making.
